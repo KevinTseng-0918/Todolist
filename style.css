@@ -82,7 +82,7 @@ body{
 }
 
 .list li.checked::before{
-    background-image:url('assets/check.svg');
+    background-image:url('assets/checked.svg');
 }
 
 .delete {
