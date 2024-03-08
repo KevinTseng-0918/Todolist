@@ -44,7 +44,7 @@ function addItem() {
   const input = document.getElementById("input");
   const text = input.value;
   if (text === "") {
-    alert("請輸入內容");
+    alert("Please enter the value");
     return;
   }
 
